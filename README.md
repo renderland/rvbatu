@@ -2,9 +2,6 @@
 
 [![twitter](https://img.shields.io/badge/-@rvbatu-313131?style=flat-square&labelColor=FFFFF&logo=twitter&logoColor=white&color=313131)](https://twitter.com/rvbatu)  
  
-
-## Hi, I'm rvbatu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 Hello, I am beginner developer, working on multiple games and projects.
 I love making games.
 I'm currently learning Python and Arduino.
