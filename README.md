@@ -1,8 +1,4 @@
-<div align="center">
-
-[![twitter](https://img.shields.io/badge/-@rvbatu-313131?style=flat-square&labelColor=FFFFF&logo=twitter&logoColor=white&color=313131)](https://twitter.com/rvbatu)  
- 
-Hello, I am beginner developer, working on multiple games and projects.
+ Hello, I am beginner developer, working on multiple games and projects.
 I love making games.
 I'm currently learning Python and Arduino.
 
@@ -13,6 +9,8 @@ I'm currently learning Python and Arduino.
 -------------------
 
 ## Has experience with;
+Blender,
+Unity,
 Adobe illustrator,
 Adobe after effects,
 Adobe animate cc,
@@ -31,6 +29,13 @@ and Adobe XD
 </p>
 </details>
 
+-------------------
+
+## Contact
+
+<div align="left">
+
+[![twitter](https://img.shields.io/badge/-@rvbatu-313131?style=flat-square&labelColor=FFFFF&logo=twitter&logoColor=white&color=313131)](https://twitter.com/rvbatu)  
 
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
