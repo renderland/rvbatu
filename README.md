@@ -35,7 +35,10 @@ and Adobe XD
 
 <div align="left">
 
-[![twitter](https://img.shields.io/badge/-@rvbatu-313131?style=flat-square&labelColor=FFFFF&logo=twitter&logoColor=white&color=313131)](https://twitter.com/rvbatu)  
+**Twitter // rvbatu**
+
+**Discord // batu#9929**
+
 
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
