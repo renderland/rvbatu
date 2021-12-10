@@ -12,6 +12,11 @@
 ![rvbatu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvbatu&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning ardunio!
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/314ompkysrghmrya2w6ow3dsyjvq?si=d159b7aafbde4beb)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
