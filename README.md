@@ -39,7 +39,7 @@ and Adobe XD
 
 **Twitter // rvbatu**
 
-**Discord // batu_#0001**
+**Discord // batu_#9929**
 
 
 <div>
